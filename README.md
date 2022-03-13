@@ -2,11 +2,8 @@
 
 ###### Desenvolvendo o Backend com Java e Springboot e acessando os dados de Câncer de Mama.
 
-_______________________
+__________
 
-#### ATIVIDADES
+#### PROJETO:
 
-- AULA I
-- AULA II
-- AULA III
-- AULA IV
+- Integrando o Backend com Frontend e Testes com a API
