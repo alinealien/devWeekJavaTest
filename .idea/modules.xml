@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/devWeekJavaTest.iml" filepath="$PROJECT_DIR$/.idea/devWeekJavaTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/philips.devweek/philips.devweek.iml" filepath="$PROJECT_DIR$/philips.devweek/philips.devweek.iml" />
     </modules>
   </component>

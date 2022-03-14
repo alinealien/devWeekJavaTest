@@ -36,7 +36,7 @@ class ApplicationTests {
 
 	@Test
 	public void getByIdControllerTest() throws Exception {
-		mockMvc.perform(get(URL+"/1"))
+		mockMvc.perform(get(URL + "/1"))
 				.andExpect(status().isOk()
 				);
 	}
@@ -68,4 +68,4 @@ class ApplicationTests {
 		} catch (Exception e) {
 			throw new RuntimeException(e);
 		}*/
-	}
+}

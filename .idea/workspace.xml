@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42d61c8a-6a35-4a85-9a2e-48dabdcb817b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/devWeekJavaTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/proxy.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/app/exames/exames-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/app/exames/exames.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/app/exames/exames/exames.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/app/exames/exames/exames.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/app/exames/exames/exames.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/app/exames/model/faixaetaria.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/app/exames/model/ocorrencia.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/app/exames/model/regiao.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/app/exames/service/faixaetaria.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/app/exames/service/ocorrencia.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/app/exames/service/regiao.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/assets/faixaetaria.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/assets/ocorrencias.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/assets/regioes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angulardevweek/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/philips.devweek/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/philips.devweek/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/philips.devweek/src/test/java/com/example/philips/devweek/ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/philips.devweek/src/test/java/com/example/philips/devweek/ApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="26LMuFfgGzE8gE0WMzG25RmoyMk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/philips.devweek/src/test/java/com/example/philips/devweek" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn --update-plugins" />
+      <command value="maven-plugin" />
+      <command value="mvn spring-boot:run" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ApplicationTests">
+    <configuration name="ApplicationTests" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="philips.devweek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.philips.devweek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.philips.devweek" />
+      <option name="MAIN_CLASS_NAME" value="com.example.philips.devweek.ApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests.getByIdControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="philips.devweek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.philips.devweek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.philips.devweek" />
+      <option name="MAIN_CLASS_NAME" value="com.example.philips.devweek.ApplicationTests" />
+      <option name="METHOD_NAME" value="getByIdControllerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApplicationTests.getByIdControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42d61c8a-6a35-4a85-9a2e-48dabdcb817b" name="Changes" comment="" />
+      <created>1647198633692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647198633692</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
